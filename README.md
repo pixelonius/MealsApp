@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+An app deleoped in Flutter that serves as an MVP for a recipes app
 
 ## Getting Started
 
